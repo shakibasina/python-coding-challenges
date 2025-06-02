@@ -1,4 +1,4 @@
-# codeforce: https://codeforces.com/problemset/problem/282/A
+# codeforces: https://codeforces.com/problemset/problem/282/A
 
 n = int(input())
 x = 0

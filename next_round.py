@@ -1,4 +1,4 @@
-# codeforce: https://codeforces.com/problemset/problem/158/A
+# codeforces: https://codeforces.com/problemset/problem/158/A
 
 n, k = input().split(" ")
 n, k = int(n), int(k)

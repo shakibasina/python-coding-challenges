@@ -1,4 +1,4 @@
-# codeforce: https://codeforces.com/problemset/problem/263/A
+# codeforces: https://codeforces.com/problemset/problem/263/A
 
 one_location = ()
 for i in range(5):

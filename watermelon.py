@@ -1,4 +1,4 @@
-# codeforce: https://codeforces.com/problemset/problem/4/A
+# codeforces: https://codeforces.com/problemset/problem/4/A
 
 try:
     n = float(input())
