@@ -1,5 +1,5 @@
 # codeforces: https://codeforces.com/problemset/problem/791/A
-
+# update
 a, b = input().split()
 a, b = int(a), int(b)
 count = 0
