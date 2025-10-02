@@ -1,4 +1,5 @@
 # codeforces: https://codeforces.com/problemset/problem/112/A
+# update
 
 a = input().lower()
 b = input().lower()
