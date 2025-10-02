@@ -1,4 +1,5 @@
 # codeforces: https://codeforces.com/problemset/problem/339/A
+# update
 
 x = input()
 x = x.split("+")
