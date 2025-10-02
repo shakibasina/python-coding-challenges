@@ -1,4 +1,5 @@
 # codeforces: https://codeforces.com/problemset/problem/263/A
+#update
 
 one_location = ()
 for i in range(5):
